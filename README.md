@@ -72,13 +72,17 @@ print("Predicted Result:",y_prednew)
 ```
 
 ## Output:
+
 ACCURACY,ACTUAL AND PREDICTED VALUES:
+
 ![image](https://github.com/user-attachments/assets/7b572175-241e-485a-bd61-22a292ede6f3)
+
 PREDICTED RESULT:
+
 ![image](https://github.com/user-attachments/assets/5a3f14d4-e107-49cb-b7dd-317bf17576fd)
 
 
-![logistic regression using gradient descent](sam.png)
+
 
 
 ## Result:
